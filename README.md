@@ -1,2 +1,4 @@
-# The_gwa_calculator
-The GWA Calculator – A simple tool for students to calculate their General Weighted Average.
+## The GWA Calculator 🚀
+A simple and powerful tool to calculate your **General Weighted Average (GWA)**.
+
+👉 Check it out here: [The GWA Calculator](https://thegwacalculator.com/)
